@@ -95,3 +95,6 @@ Plain text:
 4. Uniform responses
 5. State storage
 6. Recovery and restart process from stage storage after restart server
+
+## Related projects
+UI for that server [Remote Process Manager](https://github.com/RomanCherkasov/process_manager_ui?tab=readme-ov-file)
